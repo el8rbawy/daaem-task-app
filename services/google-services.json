@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "444454753494",
+    "project_id": "daaem-task",
+    "storage_bucket": "daaem-task.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444454753494:android:b9e8f8bf460a3f36b6e577",
+        "android_client_info": {
+          "package_name": "com.daaem.task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "444454753494-bnvi2fgjc4q7ihfrjshch86bo7ov4vta.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.daaem.task",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "444454753494-o1nn37lv31st93v29l1eu2bl52c0b864.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfpFl1tG8ZRnv_R7r2n8MEh020EHZXpRM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "444454753494-o1nn37lv31st93v29l1eu2bl52c0b864.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "444454753494-2jbnu0j3eo950m9ess3234nmppoitob7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.daaem.task.ios"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
